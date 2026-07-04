@@ -1,3 +1,3 @@
-# FastNet App
+# app-dist
 
-Descarga del APK: https://mbarete.net/fastnet.apk
+test
